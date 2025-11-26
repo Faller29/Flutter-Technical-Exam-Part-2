@@ -1,0 +1,59 @@
+# Flutter/Dart specific
+login_jwt/.dart_tool/
+login_jwt/build/
+login_jwt/.flutter-plugins
+login_jwt/.flutter-plugins-dependencies
+login_jwt/.packages
+login_jwt/.pub-cache/
+login_jwt/.pub/
+login_jwt/pubspec.lock
+
+# Android specific
+login_jwt/android/.gradle/
+login_jwt/android/gradle/
+login_jwt/android/gradlew
+login_jwt/android/gradlew.bat
+login_jwt/android/local.properties
+login_jwt/android/captures/
+login_jwt/android/.externalNativeBuild/
+login_jwt/android/app/debug/
+login_jwt/android/app/profile/
+login_jwt/android/app/release/
+
+# iOS specific
+login_jwt/ios/Pods/
+login_jwt/ios/.symlinks/
+login_jwt/ios/Flutter/App.framework
+login_jwt/ios/Flutter/Flutter.framework
+login_jwt/ios/Flutter/Flutter.podspec
+login_jwt/ios/Flutter/Generated.xcconfig
+login_jwt/ios/Flutter/ephemeral/
+login_jwt/ios/Flutter/flutter_export_environment.sh
+login_jwt/ios/.generated/
+login_jwt/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS specific
+login_jwt/macos/Flutter/GeneratedPluginRegistrant.swift
+login_jwt/macos/Flutter/ephemeral/
+
+# Windows specific
+login_jwt/windows/flutter/generated_plugin_registrant.cc
+login_jwt/windows/flutter/generated_plugin_registrant.h
+login_jwt/windows/flutter/generated_plugins.cmake
+
+# Linux specific
+login_jwt/linux/flutter/generated_plugin_registrant.cc
+login_jwt/linux/flutter/generated_plugin_registrant.h
+login_jwt/linux/flutter/generated_plugins.cmake
+
+# Web specific
+login_jwt/web/.dart_tool/
+
+# IDE specific
+login_jwt/.idea/
+login_jwt/.vscode/
+login_jwt/*.iml
+login_jwt/.metadata
+
+# Backup files
+login_jwt/README_backup.md
