@@ -15,9 +15,11 @@
    - WAMP: `C:\wamp64\www\flutter-jwt`
    - MAMP: `/Applications/MAMP/htdocs/flutter-jwt`
 
-2. Start your MySQL server and run this SQL:
+2. Start your XAMPP server run this:
 
 run the .sql file in database folder of `flutter-jwt`
+
+OR 
 
 ```sql
 CREATE DATABASE flutter_jwt;
